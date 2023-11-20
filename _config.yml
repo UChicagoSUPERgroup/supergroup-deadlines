@@ -2,8 +2,8 @@ title: ⏰ SUPERgroup Conference Deadlines
 description: Countdowns to HCI, Security/Privacy, and Fairness conference deadlines
 author: SUPER
 
-domain: 'uchicagosupergroup.github.io'
-baseurl: '/supergroup-deadlines'
+domain: ""
+baseurl: ""
 
 # twitter_hashtag: hci-deadlines
 github_username: cmdkev

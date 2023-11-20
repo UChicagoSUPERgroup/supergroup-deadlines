@@ -3,7 +3,9 @@ description: Countdowns to HCI, Security/Privacy, and Fairness conference deadli
 author: SUPER
 
 domain: ""
-baseurl: ""
+baseurl: "https://uchicagosupergroup.github.io/supergroup-deadlines"
+# for testing
+# baseurl: ""
 
 # twitter_hashtag: hci-deadlines
 github_username: cmdkev

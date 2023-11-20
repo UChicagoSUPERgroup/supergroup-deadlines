@@ -20,19 +20,7 @@
   date: August, 14-16, 2024
   start: 2024-08-14
   end: 2024-08-16
-  sub: Security
-
-# - title: SOUPS
-#   year: 2024
-#   id: soups24
-#   link: https://www.usenix.org/conference/soups2024
-#   deadline: '2024-02-08 23:59:59'
-#   timezone: UTC-12
-#   place: Philadelphia, Pennsylvania
-#   date: August, 11-13, 2024
-#   start: 2024-08-11
-#   end: 2024-08-13
-#   sub: USENIX
+  sub: SEC
 
 - title: FAccT
   year: 2024
@@ -45,7 +33,7 @@
   date: June, 03-06, 2024
   start: 2024-06-03
   end: 2024-06-06
-  sub: FAccT
+  sub: FACCT
 
 - title: IEEE Symposium on Security and Privacy (Oakland)
   year: 2024
@@ -58,3 +46,15 @@
   start: 2024-05-20
   end: 2024-05-23
   sub: SEC
+
+# - title: SOUPS
+#   year: 2024
+#   id: soups24
+#   link: https://www.usenix.org/conference/soups2024
+#   deadline: '2024-02-08 23:59:59'
+#   timezone: UTC-12
+#   place: Philadelphia, Pennsylvania
+#   date: August, 11-13, 2024
+#   start: 2024-08-11
+#   end: 2024-08-13
+#   sub: USENIX

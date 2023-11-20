@@ -1,15 +1,13 @@
-## HCI Deadlines ![GitHub license](https://img.shields.io/badge/license-MIT-red.svg?style=flat-square)
+## SUPERgroup Deadlines ![GitHub license](https://img.shields.io/badge/license-MIT-red.svg?style=flat-square)
 
 
 Countdown timers to keep track of a bunch of Human-Computer Interaction conference deadlines.
 
-This is a fork of the [ai-deadlines](https://github.com/paperswithcode/ai-deadlines) website.
+This is a fork of the [hci-deadlines](https://github.com/hci-deadlines/hci-deadlines.github.io) website.
 
 ## Contributing
 
 Contributions are very welcome!
-
-To keep things minimal, I'm only looking to list top-tier conferences in AI as per [conferenceranks.com][6] and my judgement calls. Please feel free to maintain a separate fork if you don't see your sub-field or conference of interest listed.
 
 To add or update a deadline:
 

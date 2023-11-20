@@ -1,13 +1,13 @@
-title: ⏰ HCI Conference Deadlines
-description: Countdowns to top HCI conference deadlines
-author: Andrea Bianchi
+title: ⏰ SUPERgroup Conference Deadlines
+description: Countdowns to HCI, Security/Privacy, and Fairness conference deadlines
+author: SUPER
 
-domain: 'hci-deadlines.github.io'
+domain: 'supergroup-deadlines.github.io'
 baseurl: ''
 
-twitter_hashtag: hci-deadlines
-github_username: makinteractlab
-github_repo: hci-deadlines
+# twitter_hashtag: hci-deadlines
+github_username: cmdkev
+github_repo: supergroup-deadlines
 
 markdown: kramdown
 ga_id:

@@ -27,17 +27,17 @@
       <br>
       <div class="row">
         <form class="container">
-          <div class="row justify-content-center">
+          <div class="row justify-content-around">
             <div class="row align-items-md-center col-12 col-10-md">
-              <div class="col-12 col-md-5 filter-label">
+              <div class="col-12 col-md-5 filter-label" style="flex: 0 0 0%">
                 <label for="subject-select" class="align-center" style="margin-bottom: 0px; line-height: 1.5;">
-                  Subject Filter:
+                 Filter:
                 </label>
               </div>
               <div class="col-12 col-md-6">
-                <select id="subject-select" name="subject-select" multiple="multiple" style="display: none">
+                <select id="subject-select" name="subject-select" multiple="multiple" style="display: none; font-size:  15px">
                   {% for type in site.data.types %}
-                  <option value="{{type.sub}}" id="{{type.sub}}-checkbox">
+                  <option value="{{type.sub}}" id="{{type.sub}}-checkbox" style="font-size:  15px">
                     {{type.name}} ({{type.sub}})
                   </option>
                   {% endfor %}
@@ -122,6 +122,12 @@
                   {% endif %}
                 </span>
               </div>
+              <div>
+                {% for sub in conf.sub %}
+                <span title="Click to only show {{sub}} conferences" data-sub="{{sub}}"
+                  class="conf-sub {{sub}}-tag"></span>
+                {% endfor %}
+              </div>
               {% if conf.note %}
               <div class="note">
                 <b>Note: </b>{{conf.note}}
@@ -139,12 +145,7 @@
             </div>
           </div>
           <div class="row">
-            <div class="col-12">
-              {% for sub in conf.sub %}
-              <span title="Click to only show {{sub}} conferences" data-sub="{{sub}}"
-                class="conf-sub {{sub}}-tag"></span>
-              {% endfor %}
-            </div>
+
           </div>
           <hr>
         </div>

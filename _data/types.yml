@@ -11,12 +11,6 @@
 - name: Fairness, Accountability, Transparency
   sub: FACCT
   color: '#147df5'
-- name: Human-Robot Interaction
-  sub: HRI
-  color: '#0aff99'
-- name: Augmented, Virtual and Mixed Reality
-  sub: XR
-  color: '#580aff'
 - name: Visualization
   sub: VIS
   color: '#a432a8'

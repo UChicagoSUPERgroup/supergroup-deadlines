@@ -28,7 +28,7 @@ h3 {
 
 h1 {
   margin: 0 0 10px;
-  font-size: 30px;
+  font-size: 25px;
   line-height: 35px;
 }
 
@@ -113,8 +113,8 @@ footer {
 .conf-title,
 .conf-title-small,
 .conf-title-icon {
-  font-size: 20px;
-  font-weight: 400;
+  font-size: 16;
+  font-weight: 600;
 
 }
 
@@ -139,8 +139,8 @@ footer {
 
 .timer,
 .timer-small {
-  font-size: 20px;
-  font-weight: 400;
+  font-size: 16px;
+  font-weight: 600;
 }
 
 #confs {

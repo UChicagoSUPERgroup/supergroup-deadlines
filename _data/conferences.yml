@@ -48,6 +48,19 @@
   end: 2024-05-23
   sub: SEC
 
+- title: CHI (Rebuttal)
+  year: 2024
+  id: chi_rebuttal2024
+  link: https://chi2024.acm.org/for-authors/papers/
+  deadline: '2023-12-12 23:59:59'
+  timezone: UTC-12
+  place: Honolulu, HI (Online for us)
+  date: May, 11-16, 2024
+  start: 2024-05-11
+  end: 2024-05-16
+  note: This is just the rebuttal deadline.
+  sub: HCI
+
 # - title: SOUPS
 #   year: 2024
 #   id: soups24

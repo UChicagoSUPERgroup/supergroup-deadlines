@@ -61,6 +61,19 @@
   note: This is just the rebuttal deadline.
   sub: HCI
 
+- title: CHIWORK
+  year: 2024
+  id: chiwork24
+  link: https://chiwork.org/call-for-papers/
+  deadline: '2024-02-09 23:59:59'
+  timezone: UTC-12
+  place: Northumbria University, Newcastle, UK
+  date: June, 25-27, 2024
+  start: 2024-06-25
+  end: 2024-06-27
+  note: CHIWORK 2024 is the annual symposium which aims to grow our understanding of how HCI will support work in the future.
+  sub: HCI
+
 # - title: SOUPS
 #   year: 2024
 #   id: soups24
